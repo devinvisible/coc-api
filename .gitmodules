@@ -1,0 +1,3 @@
+[submodule "CoCSharp"]
+	path = CoCSharp
+	url = https://github.com/devinvisible/CoCSharp.git
